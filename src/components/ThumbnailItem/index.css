@@ -1,0 +1,17 @@
+.tumbnail-img {
+  height: 80px;
+  width: 80px;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  list-style-type: none;
+  cursor: pointer;
+  outline: none;
+  align-self: flex-start;
+}
+.active {
+  opacity: 1;
+}

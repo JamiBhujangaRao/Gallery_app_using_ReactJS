@@ -1,0 +1,35 @@
+.app-container {
+  width: 100vw;
+  padding: 03vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-image {
+  height: 60vh;
+  width: 85vw;
+  border-radius: 15px;
+  background-size: cover;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-self: flex-start;
+  margin-left: 3.5vw;
+  padding-left: 0px;
+}
+.heading {
+  align-self: flex-start;
+  margin-left: 4.5vw;
+  font-size: 35px;
+  font-weight: bold;
+  color:#1e293b;
+}
+.about{
+  font-size: 25px;
+  color:  #64748b;
+  align-self: flex-start;
+  margin-left: 4.5vw;
+}
